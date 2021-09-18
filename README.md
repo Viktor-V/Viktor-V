@@ -1,4 +1,4 @@
-# Hi there :clap:, I am Viktor Vipolzov
+# Hi there :wave:, I am Viktor Vipolzov
 ### PHP developer from Latvia
 
 #### Where to find me
